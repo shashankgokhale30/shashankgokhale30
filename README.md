@@ -1,12 +1,12 @@
 # 👋 About Me
 
-* 🚀 Electronics & Telecommunication Engineering student focused on Embedded Systems
-* 🔧 Hands-on with STM32, ESP32, Arduino, ATmega8 & 8051
-* 💻 Working with C, Embedded C & Python
-* ⚡ Interested in Microcontroller Programming, Firmware Development & Hardware Debugging
-* 📡 Experience with GPIO, I²C, UART/Serial Communication & Sensor Interfacing
-* 🛠️ Working with STM32CubeIDE, Arduino IDE and embedded development tools
-* 🔬 Currently developing an STM32F407VE-based multi-sensor project
+- 🚀 Electronics & Telecommunication Engineering student focused on Embedded Systems
+- 🔧 Hands-on with STM32, ESP32, Arduino, ATmega8 & 8051
+- 💻 Working with C, Embedded C & Python
+- ⚡ Interested in Microcontroller Programming, Firmware Development & Hardware Debugging
+- 📡 Experience with GPIO, I²C, UART/Serial Communication & Sensor Interfacing
+- 🛠️ Working with STM32CubeIDE, Arduino IDE and embedded development tools
+- 🔬 Currently developing an STM32F407VE-based multi-sensor project
 
 ---
 
@@ -60,10 +60,10 @@ The system uses IR-based detection and a motor-driven dispensing mechanism to au
 
 # 💼 Experience
 
-| Role                 | Organization          | Work                                                                  |
-| -------------------- | --------------------- | --------------------------------------------------------------------- |
-| 🔹 Embedded C Intern | AV Electronics        | Microcontrollers, Embedded C, Sensor Interfacing, Testing & Debugging |
-| 🔹 PCB Design Intern | Prathmesh Electronics | PCB Layout, Soldering, Assembly & Circuit Testing                     |
+| Role | Organization | Work |
+| --- | --- | --- |
+| 🔹 Embedded C Intern | AV Electronics | Microcontrollers, Embedded C, Sensor Interfacing, Testing & Debugging |
+| 🔹 PCB Design Intern | Prathmesh Electronics | PCB Layout, Soldering, Assembly & Circuit Testing |
 
 ---
 
@@ -86,11 +86,11 @@ The system uses IR-based detection and a motor-driven dispensing mechanism to au
 
 # 🏅 Highlights
 
-* 🏆 1st Rank — Diploma Capstone Project Competition
-* 🔧 Embedded C Internship Experience
-* 🔬 STM32F407VE Project Development
-* 💻 Multiple Microcontroller-Based Projects
-* 📚 Embedded Systems Development
+- 🏆 1st Rank — Diploma Capstone Project Competition
+- 🔧 Embedded C Internship Experience
+- 🔬 STM32F407VE Project Development
+- 💻 Multiple Microcontroller-Based Projects
+- 📚 Embedded Systems Development
 
 ---
 
@@ -106,6 +106,10 @@ The system uses IR-based detection and a motor-driven dispensing mechanism to au
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashankgokhale30&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 > **“Build with curiosity, debug with patience, and keep learning with every project.”**
 

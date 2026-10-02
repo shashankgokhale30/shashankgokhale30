@@ -1,22 +1,113 @@
-# 💫 About Me:
-🚀 Embedded Systems Engineer passionate about real-time systems<br>🔧 Hands-on with STM32, ESP32, 8051 & Arduino <br>💻 Strong in Embedded C &Python <br>⚡ Experienced in Firmware Development & Debugging<br>📡 Worked with UART, SPI, I2C, CAN Protocols<br>🧠 Built systems using FreeRTOS & real-time processing<br>🤖 Developed Automated Sanitary Napkin Vending Machine
+# 👋 About Me
 
+* 🚀 Electronics & Telecommunication Engineering student focused on Embedded Systems
+* 🔧 Hands-on with STM32, ESP32, Arduino, ATmega8 & 8051
+* 💻 Working with C, Embedded C & Python
+* ⚡ Interested in Microcontroller Programming, Firmware Development & Hardware Debugging
+* 📡 Experience with GPIO, I²C, UART/Serial Communication & Sensor Interfacing
+* 🛠️ Working with STM32CubeIDE, Arduino IDE and embedded development tools
+* 🔬 Currently developing an STM32F407VE-based multi-sensor project
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shashank-gokhale-bb684a32b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankgokhale30@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shashankgokhale30&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shashankgokhale30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashankgokhale30&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 🛠️ Tech Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashankgokhale30&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+### 💻 Languages
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shashankgokhale30&limit=5&theme=dark&combine_all_yearly_contributions=true)
+`C` `Embedded C` `Python`
+
+### 🔌 Microcontrollers & Boards
+
+`STM32F407VE` `ESP32` `Arduino` `ATmega8` `8051`
+
+### 🧠 RTOS
+
+`FreeRTOS`
+
+### 🖥️ Tools & Software
+
+`STM32CubeIDE` `Arduino IDE` `MATLAB` `Wokwi` `KiCad` `Proteus` `Keil uVision4` `VS Code` `GitHub`
+
+---
+
+# 🚀 Featured Projects
+
+### 🔬 Smart Pesticide Residue Detection System
+
+Developing an STM32F407VE-based system for pesticide residue detection using a multi-sensor approach.
+
+The project involves individual component testing, embedded firmware development and integration of the sensing system.
+
+---
+
+### ⚖️ Food Weight & Calorie Measurement System
+
+Developed a digital weighing system using a load cell and HX711 module.
+
+The system measures food weight, displays the reading on an LCD and includes tare functionality for practical weighing applications.
+
+---
+
+### 🧼 Automated Sanitary Napkin Vending Machine
+
+Developed an automated sanitary napkin dispensing system using ATmega8.
+
+The system uses IR-based detection and a motor-driven dispensing mechanism to automate the dispensing process.
+
+🏆 **1st Rank — Diploma Capstone Project Competition**
+
+---
+
+# 💼 Experience
+
+| Role                 | Organization          | Work                                                                  |
+| -------------------- | --------------------- | --------------------------------------------------------------------- |
+| 🔹 Embedded C Intern | AV Electronics        | Microcontrollers, Embedded C, Sensor Interfacing, Testing & Debugging |
+| 🔹 PCB Design Intern | Prathmesh Electronics | PCB Layout, Soldering, Assembly & Circuit Testing                     |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankgokhale30&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgokhale30&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankgokhale30&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 Highlights
+
+* 🏆 1st Rank — Diploma Capstone Project Competition
+* 🔧 Embedded C Internship Experience
+* 🔬 STM32F407VE Project Development
+* 💻 Multiple Microcontroller-Based Projects
+* 📚 Embedded Systems Development
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/shashankgokhale30">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-gokhale-bb684a32b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> **“Build with curiosity, debug with patience, and keep learning with every project.”**
 
 ---
 [![](https://komarev.com/ghpvc/?username=shashankgokhale30&icon=1&color=3)](https://visitcount.itsvg.in)

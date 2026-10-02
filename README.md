@@ -114,6 +114,6 @@ The system uses IR-based detection and a motor-driven dispensing mechanism to au
 > **“Build with curiosity, debug with patience, and keep learning with every project.”**
 
 ---
-[![](https://komarev.com/ghpvc/?username=shashankgokhale30&icon=1&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

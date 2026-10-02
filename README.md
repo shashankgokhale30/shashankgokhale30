@@ -34,9 +34,9 @@
 
 ### 🔬 Smart Pesticide Residue Detection System
 
-Developing an STM32F407VE-based system for pesticide residue detection using a multi-sensor approach.
+Developing a portable embedded system for pesticide residue detection in fruits and vegetables.
 
-The project involves individual component testing, embedded firmware development and integration of the sensing system.
+The project focuses on sensor-based data acquisition, signal processing and embedded firmware development using the STM32F407VE, followed by integration of the sensing modules into a single system.
 
 ---
 
